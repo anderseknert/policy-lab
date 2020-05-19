@@ -1,5 +1,5 @@
 package test
 
 test_allow {
-    true
+    data.rules.allow
 }
